@@ -1,0 +1,12 @@
+-Users
+*ID
+*First Name
+*Last Name
+*Username
+*Password
+*Date Created
+*Date Modified
+
+-Items
+*ID
+*Un
